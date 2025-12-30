@@ -14,7 +14,7 @@ ASPLOS 2020 论文“The Guardian Council: Parallel Programmable Hardware Securi
 * Linux 操作系统（我们使用的是 Ubuntu 16.04 和 Ubuntu 18.04）
 * SPEC CPU2006 iso 文件，放置在存储库的根目录中（我们使用的是 v1.0），用于完整的工作流程，尽管没有它也可以完成简短的评估。
 
-安装和建造
+安装和部署
 ========================
 
 您可以按如下方式安装此存储库：
